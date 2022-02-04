@@ -1,0 +1,9 @@
+this is the version 1 of  this text file
+now i am editing this to go into commit 2
+now i am changing this for the 6th bideo
+now i am changing this tobe modified for git diff
+now i've staged the previous version of this so im changing to be compare the difference in git between staging area and working directory
+modifying to use git --cached newfile.txt
+ this is not being tracked now by git rm --cached newfile.txt
+changing for tutorial #12
+
